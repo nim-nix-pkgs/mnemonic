@@ -11,7 +11,6 @@
   inputs.src-mnemonic-v0_1_2.ref   = "refs/tags/v0.1.2";
   inputs.src-mnemonic-v0_1_2.owner = "markspanbroek";
   inputs.src-mnemonic-v0_1_2.repo  = "mnemonic";
-  inputs.src-mnemonic-v0_1_2.dir   = "";
   inputs.src-mnemonic-v0_1_2.type  = "github";
   
   inputs."nimsha2".owner = "nim-nix-pkgs";

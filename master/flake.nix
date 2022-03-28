@@ -11,7 +11,6 @@
   inputs.src-mnemonic-master.ref   = "refs/heads/master";
   inputs.src-mnemonic-master.owner = "markspanbroek";
   inputs.src-mnemonic-master.repo  = "mnemonic";
-  inputs.src-mnemonic-master.dir   = "";
   inputs.src-mnemonic-master.type  = "github";
   
   inputs."nimsha2".owner = "nim-nix-pkgs";
